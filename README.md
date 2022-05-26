@@ -1,4 +1,4 @@
-# Impotant Github repositories for Hackers 
+# Impotant Github repositories for Hackers & Developers
 
 Here you will get list of github repos that every hacker should be known!
 
@@ -7,5 +7,6 @@ Here you will get list of github repos that every hacker should be known!
 
 |Repository Name|Description|
 |-|-|
-|[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)|A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+|[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)|A list of useful payloads and bypass for Web Application Security and Pentest/CTF|
+|[Public APIs](https://github.com/public-apis/public-apis)|A collective list of free APIs|
 
